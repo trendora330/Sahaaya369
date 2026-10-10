@@ -1,0 +1,10 @@
+{
+  "description": "An accessible restaurant companion that adapts to diverse needs, allowing diners to explore menus, place orders, and communicate with staff effortlessly.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
